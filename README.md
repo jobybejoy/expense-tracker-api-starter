@@ -6,8 +6,8 @@ This app keeps track of your expenses and budgeting, interfacing between multipl
 
 clone the repo and then
 
-#####Installing the App
+#### Installing the App
 `npm install`
 
-#####Run the App
+#### Run the App
 `npm start`
